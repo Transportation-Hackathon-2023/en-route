@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/transportation-hackathon-2023.github.io/static/css/main.eb16211a.css",
-    "main.js": "/transportation-hackathon-2023.github.io/static/js/main.d039aaf9.js",
-    "static/js/787.2b5c77fb.chunk.js": "/transportation-hackathon-2023.github.io/static/js/787.2b5c77fb.chunk.js",
-    "index.html": "/transportation-hackathon-2023.github.io/index.html",
-    "main.eb16211a.css.map": "/transportation-hackathon-2023.github.io/static/css/main.eb16211a.css.map",
-    "main.d039aaf9.js.map": "/transportation-hackathon-2023.github.io/static/js/main.d039aaf9.js.map",
-    "787.2b5c77fb.chunk.js.map": "/transportation-hackathon-2023.github.io/static/js/787.2b5c77fb.chunk.js.map"
+    "main.css": "/static/css/main.eb16211a.css",
+    "main.js": "/static/js/main.0ca5e679.js",
+    "static/js/787.c17befe7.chunk.js": "/static/js/787.c17befe7.chunk.js",
+    "index.html": "/index.html",
+    "main.eb16211a.css.map": "/static/css/main.eb16211a.css.map",
+    "main.0ca5e679.js.map": "/static/js/main.0ca5e679.js.map",
+    "787.c17befe7.chunk.js.map": "/static/js/787.c17befe7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb16211a.css",
-    "static/js/main.d039aaf9.js"
+    "static/js/main.0ca5e679.js"
   ]
 }
