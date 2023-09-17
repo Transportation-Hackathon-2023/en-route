@@ -6,7 +6,6 @@ import { surveyJson } from "../models/surveyModel";
 
 export const SurveyForm = () => {
   const survey = new Model(surveyJson);
-  console.log(survey);
   return (
     <div>
       <Survey model={survey} />

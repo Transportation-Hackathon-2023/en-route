@@ -20,8 +20,9 @@ export const surveyJson = {
       title: "How did you get here?",
       type: "dropdown",
       choices: [
-        "Car",
-        "Bus",
+        "Personal Vehicle",
+        "Friend/Family's Vehicle",
+        "Public Transit",
         "Walking",
         "Bike",
         "Taxi",
