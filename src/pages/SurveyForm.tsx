@@ -6,6 +6,9 @@ import { surveyJson } from "../models/surveyModel";
 
 export const SurveyForm = () => {
   const survey = new Model(surveyJson);
+  survey.onComplete.add((sender, options) => {
+    console.log(JSON.stringify(sender.data, null, 3));
+  });
   return (
     <div>
       <Survey model={survey} />
